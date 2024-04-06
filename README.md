@@ -43,3 +43,4 @@ This dashboard was created to understand the key events that happened before and
 - Data Modelling
 
 ## Titanic Dashboard
+![Titanic Dashboard image 1](https://github.com/tboybash/Titanic-Analysis/assets/57339093/9972f61e-b299-4dc4-800e-ae845e9d4bd7)
