@@ -26,6 +26,8 @@ The titanic dataset typically includes the following columns:
 
 This dashboard was created to understand the key events that happened before and after the titanic accident.
 
+[Click here to read more about the Titanic dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+
 ## Project Questions
 
 - What is the gender distribution of the passengers onboard?
